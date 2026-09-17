@@ -5,8 +5,8 @@ Comparação prática entre duas arquiteturas de dados analíticos — Data Mart
 **[▶ Painel comercial (Data Mart)](./dashboard_datamart.html)** — baixe o arquivo e abra no navegador (veja o preview abaixo).
 **[▶ Painel integrado entre domínios (Data Mesh)](./dashboard_datamesh.html)** — baixe o arquivo e abra no navegador (veja o preview abaixo).
 
-![Preview do painel comercial](./dashboard_datamart.png)
-![Preview do painel integrado entre domínios](./dashboard_datamesh.png)
+![Preview do painel comercial](pngs/dashboard_datamart.png)
+![Preview do painel integrado entre domínios](pngs/dashboard_datamesh.png)
 
 [▶ Link para o painel comercial] — https://rafael-robsonn.github.io/Dashboard-BI_2/dashboard_datamart.html
 [▶ Link para o painel integrado] — https://rafael-robsonn.github.io/Dashboard-BI_2/dashboard_datamesh.html
