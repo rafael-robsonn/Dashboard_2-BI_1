@@ -2,6 +2,10 @@
 
 Comparação prática entre duas arquiteturas de dados analíticos — Data Mart e Data Mesh — implementadas sobre o mesmo cenário sintético: uma rede fictícia de 18 farmácias no Distrito Federal. Atividade da disciplina de Ciência de Dados e Machine Learning (UniCEUB).
 
+**[▶ Link para o Dashboard_2-BI_1] — (https://rafael-robsonn.github.io/Dashboard_2-BI_1/)**
+**[▶ Link para o painel comercial (Data Mart)] — (https://rafael-robsonn.github.io/Dashboard_2-BI_1/dashboard_datamart.html)**
+**[▶ Link para o painel integrado entre domínios (Data Mesh)] — (https://rafael-robsonn.github.io/Dashboard_2-BI_1/dashboard_datamesh.html)**
+
 **[▶ Painel comercial (Data Mart)](./dashboard_datamart.html)** 
 **[▶ Painel integrado entre domínios (Data Mesh)](./dashboard_datamesh.html)**
 ![Preview do painel comercial](pngs/dashboard_datamart.png)
