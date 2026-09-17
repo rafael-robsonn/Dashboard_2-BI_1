@@ -2,9 +2,8 @@
 
 Comparação prática entre duas arquiteturas de dados analíticos — Data Mart e Data Mesh — implementadas sobre o mesmo cenário sintético: uma rede fictícia de 18 farmácias no Distrito Federal. Atividade da disciplina de Ciência de Dados e Machine Learning (UniCEUB).
 
-**[▶ Painel comercial (Data Mart)](./dashboard_datamart.html)** — baixe o arquivo e abra no navegador (veja o preview abaixo).
-**[▶ Painel integrado entre domínios (Data Mesh)](./dashboard_datamesh.html)** — baixe o arquivo e abra no navegador (veja o preview abaixo).
-
+**[▶ Painel comercial (Data Mart)](./dashboard_datamart.html)** 
+**[▶ Painel integrado entre domínios (Data Mesh)](./dashboard_datamesh.html)**
 ![Preview do painel comercial](pngs/dashboard_datamart.png)
 ![Preview do painel integrado entre domínios](pngs/dashboard_datamesh.png)
 
